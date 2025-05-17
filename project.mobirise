@@ -41,7 +41,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Mussa",
+    "name": "Mussa Guide Tanzanie",
     "versionFirst": "6.0.1",
     "siteFonts": [
       {
@@ -86,7 +86,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "ppdqizqzbe",
+    "mbrsiteDomain": "dcdmbdwszo",
     "usedWebp": false,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -96,7 +96,7 @@
     "siteUrl": "https://mussa-guide-tanzanie.github.io",
     "cookiesAlert": false,
     "gdpr": false,
-    "pwa-switcher": false,
+    "pwa-switcher": true,
     "mcSmartCart": {
       "currency": "USD"
     },
@@ -106,7 +106,14 @@
     "publishChangesOnly": true,
     "chatbutton": {},
     "publishEditFolder": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "site_lang": "fr",
+    "PWA": {
+      "enabled": true,
+      "name": "Mussa Guide Tanzanie",
+      "icon": "@PROJECT_PATH@/assets/images/logo-tel.png-512x512.png",
+      "themeColor": "#fcd116"
+    }
   },
   "pages": {
     "index.html": {
