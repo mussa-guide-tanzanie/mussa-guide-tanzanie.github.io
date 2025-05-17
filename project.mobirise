@@ -105,7 +105,7 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "chatbutton": {},
-    "publishEditFolder": true
+    "publishEditFolder": false
   },
   "pages": {
     "index.html": {
