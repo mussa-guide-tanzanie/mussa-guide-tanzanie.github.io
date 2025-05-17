@@ -102,7 +102,7 @@
     "uniqCompNum": 35,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "chatbutton": {},
     "publishEditFolder": true
   },
